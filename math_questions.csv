@@ -1,0 +1,10 @@
+Difficulty,Question,Answer
+easy,"Given that x − 1/x = 2, calculate x³ − 1/x³.",14
+medium,Solve: √(2x + 3) = x − 1.,2 + √6
+easy,Solve the min value of x: ((x − 1)(x + 2))/(x − 3) ≥ 0.,-2
+medium,An altitude drawn to the hypotenuse of a right triangle divides it into segments of 4 cm and 9 cm. Find both legs and the altitude.,"Legs: √52, √117; Altitude: 6"
+easy,Solve: |x − 2| + |x + 1| = 5.,-2 3
+easy,Solve: |x² − 5x + 6| = 2.,x = 1  4
+medium,"If a + b = 5 and ab = 3, calculate a³ + b³ without finding a and b separately.",80
+medium,Solve for x and y: 2x + y = 7 and x − y = 2.,"x = 3, y = 1"
+hard,"A triangle has side lengths 13 cm, 14 cm, and 15 cm. Calculate its area.",84 cm²
